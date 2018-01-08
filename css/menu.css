@@ -1,0 +1,67 @@
+@media only screen and (max-width:40em){
+    
+    
+    
+}
+
+
+
+table.navbar
+{font-size: 8pt;
+margin: 0px;
+padding: 0px; 
+border: 0px; 
+font-weight: bold;}
+
+table.menu
+{font-size: 8pt;
+margin: 0px;
+padding: 0px;
+font-weight: bold;}
+
+td.menuNormal
+{padding: 0px;
+color: black;
+font-weight: bold;
+vertical-align: top;
+background-color: white;}
+
+td.menuHover
+{padding: 0px;
+color: black;
+font-weight: bold;
+vertical-align: top;}
+
+div.menuNormal
+{display: none;
+position: static;}
+
+div.menuHover
+{border: 1px solid lightblue;
+background-color: white;
+display: inline;
+position: absolute;}
+
+a.menuitem:link
+{text-decoration: none;
+color: black;
+background-color: white;
+display: block;}
+
+a.menuitem:visited
+{text-decoration: none;
+color: black;
+background-color: white;
+display: block;}
+
+a.menuitem:hover
+{text-decoration: none;
+color: black;
+background-color: lightblue;
+display: block;}
+
+a.menuitem:active
+{text-decoration: none;
+color: black;
+background-color: lightblue;
+display: block;}
